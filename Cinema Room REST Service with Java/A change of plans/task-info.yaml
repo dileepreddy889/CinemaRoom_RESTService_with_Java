@@ -1,0 +1,29 @@
+type: edu
+files:
+  - name: src/cinema/Main.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: test/CinemaTests.java
+    visible: false
+    learner_created: false
+  - name: src/cinema/model/Cinema.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/model/Seat.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/controller/CinemaController.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/service/CinemaService.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/189/stages/947/implement#comment
+status: Unchecked
+record: -1
